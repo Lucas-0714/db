@@ -6,3 +6,7 @@ tags:
 - cellphone
 - eating_cellphone
 - eating_eat
+- game
+- in_car
+- laugh
+- lessons_side
